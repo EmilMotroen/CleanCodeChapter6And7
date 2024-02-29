@@ -1,6 +1,6 @@
 import programFiles.*;
 
-/* Listing 7-1 */
+// Listing 7-1
 
 public class DeviceController {
      //…

@@ -1,6 +1,6 @@
 import programFiles.*;
 
-/* Listing 7-2 */
+// Listing 7-2
 
 public class DeviceController_WithExceptions {
     //…

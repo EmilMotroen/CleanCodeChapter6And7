@@ -1,4 +1,4 @@
-/* Listing 6-5 */
+// Listing 6-5
 
 import programFiles.NoSuchShapeException;
 

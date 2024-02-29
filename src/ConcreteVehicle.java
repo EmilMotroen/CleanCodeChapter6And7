@@ -1,4 +1,4 @@
-/* Listing 6-3 */
+// Listing 6-3
 
 public interface ConcreteVehicle {
     double getFuelTankCapacityInGallons();

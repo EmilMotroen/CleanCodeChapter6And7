@@ -1,4 +1,4 @@
-/* Listing 6-2 */
+// Listing 6-2
 
 public interface IPoint {
     double getX();

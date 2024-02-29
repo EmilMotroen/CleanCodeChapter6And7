@@ -1,4 +1,4 @@
-/* Listing 6-5 */
+// Listing 6-5
 
 public class Procedural_Square {
     public Point topLeft;

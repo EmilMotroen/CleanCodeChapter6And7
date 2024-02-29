@@ -1,4 +1,4 @@
-/* Listing 6-1 */
+// Listing 6-1
 
 public class Point {
     public double x;
