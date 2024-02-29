@@ -1,4 +1,4 @@
-/* Listing 6-6 */
+// Listing 6-6
 
 import programFiles.Shape;
 
